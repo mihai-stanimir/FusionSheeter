@@ -1,3 +1,5 @@
+FusionSheeter was originally developed by Patrick Rainsberry. I've forked his repo in order to apply a few tweaks and fixes for those desigining with 3D printing in mind.
+
 # FusionSheeter
 
 Connect a Fusion 360 design to Google Sheets
